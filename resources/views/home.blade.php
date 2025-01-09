@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layout.app')
 
 @section('head-css')
     <link href="css/home.css" rel="stylesheet">

@@ -1,0 +1,22 @@
+footer {
+    background-color: #1D291D; /* Couleur de fond sombre */
+    color: white; /* Texte blanc */
+}
+
+footer i {
+    color: white; /* Icônes blanches */
+    font-size: 1.2rem; /* Taille des icônes */
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+footer .bg-dark {
+    background-color: #1D291D !important; /* Assure la couleur du footer */
+}
+
+footer .text-white {
+    color: white !important;
+}

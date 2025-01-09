@@ -11,7 +11,8 @@
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/fontAwesome/css/all.css" rel="stylesheet">
     <link href="css/app.css" rel="stylesheet">
-    <link href="css/layout.css" rel="stylesheet">
+    <link href="css/header.css" rel="stylesheet">
+    <link href="css/footer.css" rel="stylesheet">
 
     <!-- Additional CSS pushed by views -->
     @yield('head-css')
@@ -21,8 +22,9 @@
     <!-- header (external partial) -->
     @include('partials.header')
 
-    <!-- Main Content -->
-    @yield('content')
+    <div class="main-content">
+        @yield('content')
+    </div>
 
     <!-- Footer (external partial) -->
     @include('partials.footer')

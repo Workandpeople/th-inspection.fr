@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <meta charset="UTF-8">
@@ -8,38 +8,35 @@
     <title>@yield('title', 'TH-INSPECTION')</title>
 
     <!-- Core CSS Files -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/fontAwesome/css/all.css" rel="stylesheet">
 
     <!-- Additional CSS pushed by views -->
     @yield('head-css')
 </head>
 
-<body id="page-top">
-    <!-- Wrapper for the entire page -->
-    <div id="wrapper">
-        <!-- Sidebar (external partial) -->
-        @include('partials.sidebar')
+<body>
+    <!-- header (external partial) -->
+    @include('partials.header')
 
-        <!-- Main Content -->
-        @yield('content')
+    <!-- Main Content -->
+    @yield('content')
 
-        <!-- Footer (external partial) -->
-        @include('partials.footer')
+    <!-- Footer (external partial) -->
+    @include('partials.footer')
 
-        <!-- Loading Overlay -->
-        <div id="loadingOverlay" class="loading-overlay d-none">
-            <div class="loading-spinner">
-                <i class="fas fa-spinner fa-spin"></i>
-            </div>
+    <!-- Loading Overlay -->
+    <div id="loadingOverlay" class="loading-overlay d-none">
+        <div class="loading-spinner">
+            <i class="fas fa-spinner fa-spin"></i>
         </div>
     </div>
 
     <!-- Core JS Files -->
-    <script src="{{ asset('js/jquery/jquery.min.js') }}"></script>
-    <script src="{{ asset('js/bootstrap/bootstrap.bundle.min.js') }}"></script>
-    <script src="{{ asset('js/jquery-easing/jquery.easing.min.js') }}"></script>
-    <script src="{{ asset('js/chart.js/chart.js') }}"></script>
-    <script src="{{ asset('js/sb-admin-2.min.js') }}"></script>
-    <script src="{{ asset('js/app.js') }}"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="js/app.js"></script>
 
     <!-- Additional JS pushed by views -->
     @yield('head-js')

@@ -2,6 +2,8 @@
 
 @section('head-css')
     <link href="css/contact.css" rel="stylesheet">
+    <link href="css/info.css" rel="stylesheet">
+    <link href="css/form.css" rel="stylesheet">
 @endsection
 
 @section('content')

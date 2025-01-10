@@ -1,0 +1,28 @@
+.renov-section {
+    background-color: white; /* Fond global */
+    padding: 3rem 0; /* Espacement vertical */
+}
+
+.renov-section h2 {
+    font-size: 2rem;
+    color: #1D291D;
+}
+
+.renov-section h3 {
+    font-size: 1.5rem;
+    color: #1D291D;
+}
+
+.renov-box {
+    background-color: #BDDCB9; /* Fond de la boîte */
+    border-radius: 10px; /* Bord arrondi */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre */
+    padding: 1.5rem; /* Espacement interne */
+}
+
+.img-fluid {
+    width: 75%; /* Images responsives */
+    height: auto; /* Conserve les proportions */
+    border-radius: 10px; /* Bord arrondi pour les images */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Ombre */
+}

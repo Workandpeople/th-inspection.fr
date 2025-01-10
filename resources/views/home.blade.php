@@ -2,6 +2,9 @@
 
 @section('head-css')
     <link href="css/home.css" rel="stylesheet">
+    <link href="css/banner.css" rel="stylesheet">
+    <link href="css/couverture.css" rel="stylesheet">
+    <link href="css/technicien.css" rel="stylesheet">
 @endsection
 
 @section('content')

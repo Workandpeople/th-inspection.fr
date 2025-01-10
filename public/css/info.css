@@ -1,0 +1,31 @@
+.info-section {
+    background-color: white; /* Fond blanc */
+    padding: 3rem 0; /* Espacement vertical */
+}
+
+.info-section h2 {
+    font-size: 2rem; /* Taille du titre */
+    color: #1D291D; /* Couleur sombre */
+}
+
+.info-section p {
+    font-size: 1rem; /* Taille du texte */
+    color: #333; /* Texte légèrement sombre */
+    text-align: justify; /* Justifie le texte */
+}
+
+.contact-info {
+    text-align: left; /* Texte justifié à gauche */
+}
+
+.contact-info i {
+    color: #1D291D; /* Couleur des icônes */
+    font-size: 1.2rem; /* Taille des icônes */
+}
+
+.img-fluid {
+    max-width: 100%; /* Images responsives */
+    height: auto; /* Conserve les proportions */
+    border-radius: 10px; /* Bord arrondi */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Ombre */
+}

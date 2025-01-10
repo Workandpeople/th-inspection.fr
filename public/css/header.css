@@ -17,6 +17,7 @@ header {
     bottom: -5rem;
     width: 7rem;
     height: auto;
+    z-index: 10;
 }
 
 nav {

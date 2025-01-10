@@ -1,0 +1,34 @@
+.technicians-section {
+    background-color: white; /* Fond blanc pour toute la section */
+}
+
+.technicians-box {
+    background-color: #BDDCB9; /* Couleur du rectangle principal */
+    border-radius: 15px; /* Bord arrondi */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Drop shadow */
+    padding: 2rem;
+    width: 100%; /* S'étend à toute la largeur disponible */
+    max-width: 900px; /* Largeur maximale */
+}
+
+.technicians-title {
+    color: #1D291D; /* Titre en couleur sombre */
+    font-size: 1.5rem; /* Taille du titre */
+    margin-bottom: 1rem; /* Espacement sous le titre */
+}
+
+.availability-box {
+    background-color: #1D291D; /* Couleur sombre du rectangle */
+    color: white; /* Texte blanc */
+    border-radius: 10px; /* Bord arrondi */
+    padding: 0.5rem 1rem; /* Marges internes */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Drop shadow */
+    font-size: 1.25rem; /* Taille du texte */
+}
+
+.img-fluid {
+    max-width: 100%; /* Images responsives */
+    height: auto; /* Conserve les proportions */
+    border-radius: 10px; /* Bord arrondi pour les images */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Drop shadow */
+}

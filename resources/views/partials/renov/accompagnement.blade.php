@@ -45,9 +45,9 @@
         <!-- Section 4 -->
         <div class="row align-items-center mb-5">
             <div class="col-7">
-                <h3 class="mb-3"><b>4 : </b>Réalisation des travaux avec suivi</h3>
+                <h3 class="mb-3"><b>4 : </b>Réalisation des travaux</h3>
                 <div class="renov-box p-3 rounded">
-                    <p>Nos équipes assurent un suivi rigoureux de la réalisation de vos travaux afin de garantir leur qualité et leur conformité aux normes en vigueur.</p>
+                    <p>L'entreprise sélectionnée réalise les travaux dans les règles de l'art</p>
                 </div>
             </div>
             <div class="col-5 d-flex justify-content-center align-items-center">
@@ -63,7 +63,7 @@
             <div class="col-7">
                 <h3 class="mb-3"><b>5 : </b>Dépôt des factures en ligne</h3>
                 <div class="renov-box p-3 rounded">
-                    <p>Une fois les travaux terminés, nous vous accompagnons dans le dépôt des factures en ligne pour finaliser votre dossier d’aide.</p>
+                    <p>Après l’achèvement des travaux, nous organisons un rendez-vous pour vérifier que tout a été réalisé selon vos attentes et en conformité avec les normes</p>
                 </div>
             </div>
         </div>
@@ -73,7 +73,7 @@
             <div class="col-7">
                 <h3 class="mb-3"><b>6 : </b>RDV après travaux pour vérification</h3>
                 <div class="renov-box p-3 rounded">
-                    <p>Après l’achèvement des travaux, nous organisons un rendez-vous pour vérifier que tout a été réalisé selon vos attentes et en conformité avec les normes</p>
+                    <p>Une fois les travaux terminés, nous vous accompagnons dans le dépôt des factures en ligne pour finaliser votre dossier d’aide.</p>
                 </div>
             </div>
             <div class="col-5 d-flex justify-content-center align-items-center">

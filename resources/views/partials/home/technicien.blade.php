@@ -12,13 +12,8 @@
                     </div>
 
                     <!-- Colonne 3 : Image 1 -->
-                    <div class="col-3 text-center">
-                        <img src="/path/to/image1.jpg" alt="Technicien 1" class="img-fluid rounded shadow">
-                    </div>
-
-                    <!-- Colonne 3 : Image 2 -->
-                    <div class="col-3 text-center">
-                        <img src="/path/to/image2.jpg" alt="Technicien 2" class="img-fluid rounded shadow">
+                    <div class="col-6 text-center">
+                        <img src="/assets/technicien.jpg" alt="Technicien 1" class="img-fluid rounded shadow">
                     </div>
                 </div>
             </div>

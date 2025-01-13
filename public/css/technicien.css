@@ -8,7 +8,6 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Drop shadow */
     padding: 2rem;
     width: 100%; /* S'étend à toute la largeur disponible */
-    max-width: 900px; /* Largeur maximale */
 }
 
 .technicians-title {
@@ -28,7 +27,7 @@
 
 .img-fluid {
     max-width: 100%; /* Images responsives */
-    height: auto; /* Conserve les proportions */
+    height: 15rem; /* Conserve les proportions */
     border-radius: 10px; /* Bord arrondi pour les images */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Drop shadow */
 }

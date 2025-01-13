@@ -9,7 +9,7 @@
             <!-- Colonne 4 : Titre et bouton -->
             <div class="col-4 text-center">
                 <h2 class="mb-4">Pour en savoir plus :</h2>
-                <a href="#contact" class="btn-contact">Nous Contacter</a>
+                <a href= "{{ url('/contact') }}" class="btn-contact">Nous Contacter</a>
             </div>
         </div>
     </div>

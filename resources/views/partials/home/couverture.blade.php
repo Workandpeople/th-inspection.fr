@@ -3,7 +3,7 @@
         <div class="row align-items-center">
             <!-- Colonne gauche : Image -->
             <div class="col-5 text-center">
-                <img src="/assets/couverture.png" alt="Couverture nationale" class="img-fluid rounded shadow">
+                <img src="/assets/technicienAcceuil.jpg" alt="Couverture nationale" class="img-fluid rounded shadow">
             </div>
 
             <!-- Colonne droite : Texte et sections -->
@@ -30,7 +30,7 @@
 
                 <!-- Texte en dessous -->
                 <p class="text-dark mt-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    Nos experts vous accompagnent dans vos audits énergétiques pour optimiser vos performances et réduire vos coûts.
                 </p>
             </div>
         </div>

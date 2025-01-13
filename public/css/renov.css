@@ -22,7 +22,7 @@
 
 .img-fluid {
     width: 75%; /* Images responsives */
-    height: auto; /* Conserve les proportions */
+    height: 15rem; /* Conserve les proportions */
     border-radius: 10px; /* Bord arrondi pour les images */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Ombre */
 }

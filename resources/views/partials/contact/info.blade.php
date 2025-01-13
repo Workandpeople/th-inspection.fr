@@ -19,7 +19,7 @@
 
             <!-- Colonne 5 : Image -->
             <div class="col-5 text-center">
-                <img src="/path/to/image.jpg" alt="Contactez-nous" class="img-fluid rounded shadow">
+                <img src="/assets/appel.webp" alt="Contactez-nous" class="img-fluid rounded shadow">
             </div>
         </div>
     </div>

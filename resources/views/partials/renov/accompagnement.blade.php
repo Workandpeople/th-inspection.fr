@@ -47,7 +47,7 @@
             <div class="col-7">
                 <h3 class="mb-3"><b>4 : </b>Réalisation des travaux</h3>
                 <div class="renov-box p-3 rounded">
-                    <p>L'entreprise sélectionnée réalise les travaux dans les règles de l'art</p>
+                    <p>L'entreprise sélectionnée réalise les travaux dans les règles de l'art.</p>
                 </div>
             </div>
             <div class="col-5 d-flex justify-content-center align-items-center">
@@ -63,7 +63,7 @@
             <div class="col-7">
                 <h3 class="mb-3"><b>5 : </b>Dépôt des factures en ligne</h3>
                 <div class="renov-box p-3 rounded">
-                    <p>Après l’achèvement des travaux, nous organisons un rendez-vous pour vérifier que tout a été réalisé selon vos attentes et en conformité avec les normes</p>
+                    <p>Après l’achèvement des travaux, nous organisons un rendez-vous pour vérifier que tout a été réalisé selon vos attentes et en conformité avec les normes.</p>
                 </div>
             </div>
         </div>

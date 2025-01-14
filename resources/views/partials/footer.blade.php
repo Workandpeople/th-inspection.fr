@@ -22,7 +22,7 @@
         <div class="row">
             <!-- Ligne inférieure -->
             <div class="col-12 text-center">
-                <p>© th-inspection. Tous droits réservés 2024.</p>
+                <p>© th-inspection. Tous droits réservés <?php echo date("Y"); ?>.</p>
             </div>
         </div>
     </div>

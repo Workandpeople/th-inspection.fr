@@ -6,28 +6,3 @@
     color: #1D291D; /* Titre en couleur sombre */
     font-size: 2rem; /* Taille du titre */
 }
-
-.coverage-box {
-    background-color: #1D291D; /* Fond sombre pour le rectangle */
-    border-radius: 10px; /* Bord arrondi */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Drop shadow */
-}
-
-.coverage-box .text-center {
-    color: white; /* Texte blanc */
-}
-
-.coverage-box i {
-    color: #BDDCB9; /* Couleur des icônes */
-}
-
-.national-coverage p {
-    font-size: 1rem; /* Taille standard du texte */
-}
-
-.img-fluid {
-    max-width: 100%; /* Image responsive */
-    height: auto; /* Maintient les proportions */
-    border-radius: 15px; /* Bord arrondi pour l'image */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Drop shadow */
-}

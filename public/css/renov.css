@@ -3,26 +3,48 @@
     padding: 3rem 0; /* Espacement vertical */
 }
 
-.renov-section h2 {
-    font-size: 2rem;
-    color: #1D291D;
+.renov-box p{
+    margin-left: 4rem;
+    margin-top: -3rem;
+    text-align: center;
 }
 
-.renov-section h3 {
-    font-size: 1.5rem;
-    color: #1D291D;
+.custom-h3 {
+    font-size: 1.5rem; /* Réduction de la taille des titres H3 */
+    font-weight: bold;
+    color: #175b17;
+    text-align: center;
+    margin-bottom: -1rem;
+    margin-left: 4rem;
 }
 
-.renov-box {
-    background-color: #BDDCB9; /* Fond de la boîte */
-    border-radius: 10px; /* Bord arrondi */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre */
-    padding: 1.5rem; /* Espacement interne */
+.custom-img {
+    max-width: 75%; /* Réduction de la taille des images */
+    height: auto; /* Conserver les proportions */
 }
 
-.img-fluid {
-    width: 75%; /* Images responsives */
-    height: 15rem; /* Conserve les proportions */
-    border-radius: 10px; /* Bord arrondi pour les images */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Ombre */
+/* Cercle numéroté et ligne */
+.step {
+    display: flex;
+    align-items: center;
+}
+
+.circle {
+    width: 60px; /* Augmenté pour agrandir le cercle */
+    height: 60px; /* Augmenté pour agrandir le cercle */
+    background-color: #175b17; /* Couleur verte */
+    color: white;
+    font-size: 1.5rem; /* Police ajustée pour correspondre à la taille du cercle */
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-right: -2px; /* Supprime l'espace entre le cercle et la ligne */
+}
+
+.line {
+    flex-grow: 1;
+    height: 4px;
+    background-color: #175b17; /* Couleur verte */
 }

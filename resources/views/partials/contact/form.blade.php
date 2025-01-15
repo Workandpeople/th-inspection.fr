@@ -1,7 +1,9 @@
 <section class="form-section py-5">
     <div class="container">
         <h2 class="text-center mb-4">Contactez-nous</h2>
-        <form action="#" method="POST" class="form">
+        <form action="#" method="POST" id="contactForm" class="form">
+            <div id="responseMessage" class="alert d-none" role="alert"></div> <!-- Zone d'affichage des messages -->
+
             <div class="row mb-3">
                 <!-- Nom -->
                 <div class="col-6">

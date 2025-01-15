@@ -1,21 +1,17 @@
-<section class="technicians-section py-5">
+<section class="technicians-section pb-5">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="technicians-box p-4 rounded shadow">
-                <div class="row align-items-center">
-                    <!-- Colonne 6 : Titre et rectangle -->
-                    <div class="col-6">
-                        <h2 class="technicians-title text-center">Des Techniciens Disponibles</h2>
-                        <div class="availability-box text-center text-white mt-3">
-                            <p class="mb-0">+ 20 Techniciens</p>
-                        </div>
-                    </div>
-
-                    <!-- Colonne 3 : Image 1 -->
-                    <div class="col-6 text-center">
-                        <img src="/assets/technicien.jpg" alt="Technicien 1" class="img-fluid rounded shadow">
-                    </div>
-                </div>
+            <div class="col-lg-3 text-center">
+                <img src="/assets/IMAGES1/1.png" alt="technicien" class="img-fluid mx-2">
+            </div>
+            <div class="col-lg-3 text-center">
+                <img src="/assets/IMAGES1/2.png" alt="technicien" class="img-fluid mx-2">
+            </div>
+            <div class="col-lg-3 text-center">
+                <img src="/assets/IMAGES1/3.png" alt="technicien" class="img-fluid mx-2">
+            </div>
+            <div class="col-lg-3 text-center">
+                <img src="/assets/IMAGES1/4.png" alt="technicien" class="img-fluid mx-2">
             </div>
         </div>
     </div>

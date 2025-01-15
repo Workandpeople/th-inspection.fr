@@ -1,6 +1,6 @@
 .banner {
     position: relative;
-    background-image: url('/assets/banner.png'); /* Remplacez par le chemin de votre image */
+    background-image: url('/assets/banner.jpeg'); /* Remplacez par le chemin de votre image */
     background-size: cover;
     background-position: center;
     height: 40vh; /* Ajustez la hauteur selon vos besoins */

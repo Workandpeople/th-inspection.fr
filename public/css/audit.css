@@ -1,50 +1,16 @@
 .audits-section {
     background-color: white; /* Fond global */
-    padding: 3rem 0; /* Réduction des marges verticales */
+    padding: 3rem 0;
 }
 
-.audit-steps {
-    background-color: #BDDCB9; /* Fond de la section des étapes */
-    border-radius: 10px; /* Bord arrondi */
-    padding: 1.5rem; /* Réduction des marges internes */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Ombre */
-    max-width: 800px; /* Limite la largeur */
-    margin: 0 auto; /* Centre la section */
-}
-
-.step-number {
-    text-align: center;
-    font-size: 1.2rem; /* Réduction de la taille du texte */
+.custom-h3 {
+    font-size: 1.5rem; /* Réduction de la taille des titres H3 */
     font-weight: bold;
-    background-color: #1D291D; /* Fond des numéros */
-    color: white; /* Texte blanc */
-    width: 40px; /* Réduction de la largeur */
-    height: 40px; /* Réduction de la hauteur */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 5px; /* Bord arrondi des numéros */
-    margin-right: 1.5rem; /* Réduction de l'espace à droite */
+    color: #1D291D;
+    text-align: center;
 }
 
-.offset-step {
-    margin-left: 5%; /* Réduction du décalage pour les étapes décalées */
-    margin-right: 1.5rem; /* Réduction de l'espace à droite */
-}
-
-.step-content h3 {
-    color: #1D291D; /* Couleur sombre pour le titre */
-    font-size: 1.1rem; /* Réduction de la taille des titres */
-    margin-bottom: 0.4rem; /* Espacement sous les titres réduit */
-}
-
-.step-content p {
-    font-size: 0.85rem; /* Réduction de la taille du texte des descriptions */
-    margin: 0;
-    color: #333; /* Texte légèrement sombre */
-}
-
-.row {
-    display: flex;
-    align-items: center; /* Assure l’alignement vertical sur une seule ligne */
+.custom-img {
+    max-width: 75%; /* Réduction de la taille des images */
+    height: auto; /* Conserver les proportions */
 }

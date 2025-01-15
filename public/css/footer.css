@@ -1,6 +1,8 @@
 footer {
     background-color: #1D291D; /* Couleur de fond sombre */
     color: white; /* Texte blanc */
+    border-top-left-radius: 1rem; /* Coins inférieurs arrondis */
+    border-top-right-radius: 1rem;
 }
 
 footer i {

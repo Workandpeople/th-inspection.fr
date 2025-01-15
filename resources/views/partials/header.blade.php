@@ -13,7 +13,7 @@
             <li>
                 <a href="{{ route('audit.index') }}" 
                    class="{{ request()->routeIs('audit.index') ? 'active-link' : 'default-link' }}">
-                   Audits Énergie
+                   Audits Énergétiques
                 </a>
             </li>
             <li>

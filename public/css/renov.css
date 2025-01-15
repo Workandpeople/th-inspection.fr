@@ -41,6 +41,7 @@
     align-items: center;
     border-radius: 50%;
     margin-right: -2px; /* Supprime l'espace entre le cercle et la ligne */
+    z-index: 1; /* Place le cercle au-dessus de la ligne */
 }
 
 .line {
@@ -48,3 +49,49 @@
     height: 4px;
     background-color: #175b17; /* Couleur verte */
 }
+
+.tel-visible{
+    display: none !important;
+}
+
+.ordi-visible{
+    display: flex !important;
+}
+
+@media (max-width: 768px) {
+    .custom-h3 {
+        font-size: 1rem; /* Réduction de la taille des titres H3 */
+        margin-left: 0;
+        margin-top: 4rem;
+    }
+
+    h1{
+        font-size: 1.4rem;
+    }
+
+    .renov-box p{
+        font-size: 0.8rem;
+        margin-left: 0;
+    }
+
+    .tel-visible{
+        display: flex !important;
+    }
+
+    .ordi-visible{
+        display: none !important;
+    }
+
+    .renov-box{
+        margin-top: 2rem;
+    }
+
+    .custom-img {
+        margin-top: -2rem;
+    }
+
+    .first-title{
+        margin-top: 0;
+    }
+}
+    

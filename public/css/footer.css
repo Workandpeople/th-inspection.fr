@@ -22,3 +22,19 @@ footer .bg-dark {
 footer .text-white {
     color: white !important;
 }
+
+/* Styles pour mobile */
+@media (max-width: 576px) {
+    /* Aligner les éléments à gauche en mobile */
+    footer .text-end {
+        text-align: left !important;
+    }
+
+    footer .justify-content-end {
+        justify-content: start !important;
+    }
+
+    .col-gauche {
+        margin-bottom: 1rem;
+    }
+}

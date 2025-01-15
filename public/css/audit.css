@@ -14,3 +14,35 @@
     max-width: 75%; /* Réduction de la taille des images */
     height: auto; /* Conserver les proportions */
 }
+
+.ordi-visible{
+    display: block;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.4rem;
+    }
+
+    .custom-h3 {
+        font-size: 1rem;
+        margin-bottom: 0 !important;
+        margin-top: 5rem;
+    }
+
+    .renov-box p{
+        font-size: 0.8rem;
+    }
+
+    .custom-img {
+        max-width: 50%;
+    }
+
+    .ordi-visible{
+        display: none;
+    }
+
+    .first_h3{
+        margin-top: 0;
+    }
+}

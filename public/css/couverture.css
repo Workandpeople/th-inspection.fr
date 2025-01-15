@@ -6,3 +6,25 @@
     color: #1D291D; /* Titre en couleur sombre */
     font-size: 2rem; /* Taille du titre */
 }
+
+.info-section {
+    background-image: url('/assets/logo_prise.png')
+}
+
+@media (max-width: 768px) {
+    .national-coverage h2 {
+        font-size: 1.4rem; /* Taille du titre */
+    }
+
+    .up-text{
+        font-size: 0.8rem !important; /* Taille du texte */
+    }
+
+    .down-text{
+        font-size: 0.7rem !important; /* Taille du texte */
+    }
+
+    .info-section {
+        background-image: url('/assets/logo_prise_vertical.png')
+    }
+}

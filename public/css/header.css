@@ -56,3 +56,45 @@ nav a:hover {
     text-decoration: underline;
     text-decoration-color: #BDDCB9;
 }
+
+/* Styles pour le menu burger */
+#burgerMenu {
+    display: none; /* Masqué par défaut */
+}
+
+#navbar ul {
+    transition: all 0.3s ease; /* Animation pour l'apparition du menu */
+}
+
+.logo.hidden {
+    display: none; /* Cache le logo */
+}
+
+/* Responsive styles pour téléphone */
+@media (max-width: 992px) {
+    header {
+        flex-wrap: wrap; /* Permet de gérer l'empilement */
+    }
+
+    #burgerMenu {
+        display: block; /* Affiche le bouton burger */
+    }
+
+    #navbar {
+        width: 100%; /* Le menu prend toute la largeur */
+        display: none; /* Masque le menu par défaut */
+    }
+
+    #navbar ul {
+        flex-direction: column; /* Les liens deviennent verticaux */
+        gap: 1rem; /* Espacement entre les liens */
+        background-color: #1D291D; /* Fond sombre pour le menu mobile */
+        padding: 1rem;
+        border-radius: 5px;
+        list-style: none;
+    }
+
+    #navbar.active {
+        display: block; /* Affiche le menu lorsque le burger est activé */
+    }
+}

@@ -7,13 +7,19 @@
 
         <!-- Section 1 -->
         <div class="row align-items-center mt-5">
-            <div class="col-5 d-flex justify-content-center align-items-center">
+            <h3 class="first-title tel-visible custom-h3">Visite Technique & Audit Énergétique :
+                La clé pour bien démarrer votre rénovation</h3>
+                <div class="col-12 tel-visible step d-flex align-items-center mb-3">
+                    <div class="circle">1</div>
+                    <div class="line"></div>
+                </div>
+            <div class="col-md-5 col-12 d-flex justify-content-center align-items-center">
                 <img src="/assets/IMAGES1/9.png" alt="Section 1" class="img-fluid rounded custom-img">
             </div>
-            <div class="col-7">
-                <h3 class="custom-h3">Visite Technique & Audit Énergétique :
+            <div class="col-md-7 col-12">
+                <h3 class="ordi-visible custom-h3">Visite Technique & Audit Énergétique :
                     La clé pour bien démarrer votre rénovation</h3>
-                <div class="step d-flex align-items-center mb-3">
+                <div class="step ordi-visible d-flex align-items-center mb-3">
                     <div class="circle">1</div>
                     <div class="line"></div>
                 </div>
@@ -29,10 +35,16 @@
 
         <!-- Section 2 -->
         <div class="row align-items-center">
-            <div class="col-7">
-                <h3 class="custom-h3">Sélection des devis travaux :
+            <h3 class="tel-visible custom-h3">Sélection des devis travaux :
+                Choisissez l’offre idéale en toute confiance</h3>
+                <div class="col-12 tel-visible step d-flex align-items-center mb-3">
+                    <div class="circle">2</div>
+                    <div class="line"></div>
+                </div>
+            <div class="col-md-7 col-12">
+                <h3 class="ordi-visible custom-h3">Sélection des devis travaux :
                     Choisissez l’offre idéale en toute confiance</h3>
-                <div class="step d-flex align-items-center mb-3">
+                <div class="ordi-visible step d-flex align-items-center mb-3">
                     <div class="circle">2</div>
                     <div class="line"></div>
                 </div>
@@ -43,20 +55,26 @@
                         parfaitement adapté à vos besoins et à votre budget.</p>
                 </div>
             </div>
-            <div class="col-5">
+            <div class="col-md-5 col-12 d-flex justify-content-center align-items-center">
                 <img src="/assets/IMAGES1/10.png" alt="Section 2" class="img-fluid rounded custom-img">
             </div>
         </div>
 
         <!-- Section 3 -->
         <div class="row align-items-center">
-            <div class="col-5 d-flex justify-content-center align-items-center">
+            <h3 class="tel-visible custom-h3">Dépôt des demandes d’aides :
+                Obtenez vos financements facilement</h3>
+                <div class="col-12 tel-visible step d-flex align-items-center mb-3">
+                    <div class="circle">3</div>
+                    <div class="line"></div>
+                </div>
+            <div class="col-md-5 col-12 d-flex justify-content-center align-items-center">
                 <img src="/assets/IMAGES1/11.png" alt="Section 3" class="img-fluid rounded custom-img">
             </div>
-            <div class="col-7">
-                <h3 class="custom-h3">Dépôt des demandes d’aides :
+            <div class="col-md-7 col-12">
+                <h3 class="ordi-visible custom-h3">Dépôt des demandes d’aides :
                     Obtenez vos financements facilement</h3>
-                <div class="step d-flex align-items-center mb-3">
+                <div class="ordi-visible step d-flex align-items-center mb-3">
                     <div class="circle">3</div>
                     <div class="line"></div>
                 </div>
@@ -71,10 +89,16 @@
 
         <!-- Section 4 -->
         <div class="row align-items-center">
-            <div class="col-7">
-                <h3 class="custom-h3">Réalisation des travaux :
+            <h3 class="tel-visible custom-h3">Réalisation des travaux :
+                Un expert toujours à vos côtés</h3>
+                <div class="col-12 tel-visible step d-flex align-items-center mb-3">
+                    <div class="circle">4</div>
+                    <div class="line"></div>
+                </div>
+            <div class="col-md-7 col-12">
+                <h3 class="ordi-visible custom-h3">Réalisation des travaux :
                     Un expert toujours à vos côtés</h3>
-                <div class="step d-flex align-items-center mb-3">
+                <div class="ordi-visible step d-flex align-items-center mb-3">
                     <div class="circle">4</div>
                     <div class="line"></div>
                 </div>
@@ -86,20 +110,26 @@
                         veiller au bon déroulement du projet.</p>
                 </div>
             </div>
-            <div class="col-5 d-flex justify-content-center align-items-center">
+            <div class="col-md-5 col-12 d-flex justify-content-center align-items-center">
                 <img src="/assets/IMAGES1/12.png" alt="Section 4" class="img-fluid rounded custom-img">
             </div>
         </div>
 
          <!-- Section 5 -->
          <div class="row align-items-center">
-            <div class="col-5 d-flex justify-content-center align-items-center">
+            <h3 class="tel-visible custom-h3">Rendez-vous de validation après travaux :
+                La garantie d’un projet conforme et réussi</h3>
+                <div class="col-12 tel-visible step d-flex align-items-center mb-3">
+                    <div class="circle">5</div>
+                    <div class="line"></div>
+                </div>
+            <div class="col-md-5 col-12 d-flex justify-content-center align-items-center">
                 <img src="/assets/IMAGES1/13.png" alt="Section 4" class="img-fluid rounded custom-img">
             </div>
-            <div class="col-7">
-                <h3 class="custom-h3">Rendez-vous de validation après travaux :
+            <div class="col-md-7 col-12">
+                <h3 class="ordi-visible custom-h3">Rendez-vous de validation après travaux :
                     La garantie d’un projet conforme et réussi</h3>
-                <div class="step d-flex align-items-center mb-3">
+                <div class="ordi-visible step d-flex align-items-center mb-3">
                     <div class="circle">5</div>
                     <div class="line"></div>
                 </div>
@@ -115,10 +145,16 @@
 
          <!-- Section 6 -->
          <div class="row align-items-center">
-            <div class="col-7">
-                <h3 class="custom-h3">Dépôt du dossier de fin de travaux :
+            <h3 class="tel-visible custom-h3">Dépôt du dossier de fin de travaux :
+                Obtenez vos aides financières, simplement</h3>
+                <div class="col-12 tel-visible step d-flex align-items-center mb-3">
+                    <div class="circle">6</div>
+                    <div class="line"></div>
+                </div>
+            <div class="col-md-7 col-12">
+                <h3 class="ordi-visible custom-h3">Dépôt du dossier de fin de travaux :
                     Obtenez vos aides financières, simplement</h3>
-                <div class="step d-flex align-items-center mb-3">
+                <div class="ordi-visible step d-flex align-items-center mb-3">
                     <div class="circle">6</div>
                     <div class="line"></div>
                 </div>
@@ -128,7 +164,7 @@
                         vous permettre de recevoir vos aides financières sans attendre.</p>
                 </div>
             </div>
-            <div class="col-5 d-flex justify-content-center align-items-center">
+            <div class="col-md-5 col-12 d-flex justify-content-center align-items-center">
                 <img src="/assets/IMAGES1/14.png" alt="Section 4" class="img-fluid rounded custom-img">
             </div>
         </div>

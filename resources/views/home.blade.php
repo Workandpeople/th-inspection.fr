@@ -14,5 +14,4 @@
 @endsection
 
 @section('head-js')
-    <script src="js/home.js"></script>
 @endsection
